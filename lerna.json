@@ -1,4 +1,6 @@
 {
-  "packages": ["packages/cli"],
-  "version": "0.0.1"
+  "packages": [
+    "packages/cli"
+  ],
+  "version": "0.0.2"
 }
