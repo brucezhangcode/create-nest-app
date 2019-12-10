@@ -1,0 +1,27 @@
+{
+  "name": "create-nest-app",
+  "version": "0.0.1",
+  "description": "create nest.js app",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brucecodezone/create-nest-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "nestjs"
+  ],
+  "author": "brucezhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brucecodezone/create-nest-app/issues"
+  },
+  "homepage": "https://github.com/brucecodezone/create-nest-app#readme",
+  "devDependencies": {
+    "lerna": "^3.19.0"
+  },
+  "dependencies": {}
+}
