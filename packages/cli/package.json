@@ -1,5 +1,5 @@
 {
-  "name": "create-nest-app",
+  "name": "nestjs-app",
   "description": "",
   "version": "0.0.4-alpha.0",
   "main": "libs/index.js",
@@ -17,5 +17,6 @@
   },
   "devDependencies": {
     "prettier": "^1.19.1"
-  }
+  },
+  "gitHead": "13426619bef42113b4e8ac78365514a66eb41c39"
 }
