@@ -1,10 +1,9 @@
 const inquirer = require('inquirer');
-const commander = require('commander');
+const program = require('commander');
 const path = require('path');
 const fsExtra = require('fs-extra');
 const download = require('download-git-repo');
 
-const program = require('commander');
 program
   .version(require('../package.json').version)
   .usage('<command> [options]');
