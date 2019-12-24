@@ -2,7 +2,8 @@
   "name": "nestjs-app",
   "description": "",
   "version": "0.0.5-alpha.0",
-  "main": "libs/index.js",
+  "main": "./libs/index",
+  "bin": "./libs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +14,7 @@
     "commander": "^4.0.1",
     "download-git-repo": "^3.0.2",
     "fs-extra": "^8.1.0",
-    "inquirer": "^7.0.0"
+    "inquirer": "^7.0.1"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
